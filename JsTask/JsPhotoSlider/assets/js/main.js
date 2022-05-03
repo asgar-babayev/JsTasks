@@ -1,5 +1,3 @@
-
-
 let _slayd = document.getElementsByClassName("slayd");
 
 let slaydCount = _slayd.length;
