@@ -1,11 +1,5 @@
 
 
-let mainimg = document.querySelector(".slayd");
-
-img1.onclick = () => mainimg.setAttribute("src", "assets/images/1.jpg")
-img2.onclick = () => mainimg.setAttribute("src", "assets/images/2.jpg")
-img3.onclick = () => mainimg.setAttribute("src", "assets/images/3.jpg")
-
 let _slayd = document.getElementsByClassName("slayd");
 
 let slaydCount = _slayd.length;
